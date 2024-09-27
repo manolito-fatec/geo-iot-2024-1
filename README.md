@@ -4,11 +4,11 @@
 ---
 
 ## 📌 Tópicos
-- [👥 Membros](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/tree/dev?tab=readme-ov-file#team-members)
-- [📋 Requisitos](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/tree/dev?tab=readme-ov-file#requisitos)
-- [📈 Product Backlog](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/tree/dev?tab=readme-ov-file#product-backlog)
-- [📚 Documentação](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/tree/dev?tab=readme-ov-file#documentação)
-- [💻 Tecnologias](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/tree/dev?tab=readme-ov-file#tecnologias)
+- [👥 Membros](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#team-members)
+- [📋 Requisitos](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#requisitos)
+- [📈 Product Backlog](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#product-backlog)
+- [📚 Documentação](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#documentação)
+- [💻 Tecnologias](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#tecnologias)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 📋 Requisitos
+# 📋 Requisitos
 ### ⚙️ Requisitos Funcionais
 
 | **ID** | **Requisito** | **Descrição** |
@@ -59,7 +59,7 @@
 
 ---
 
-## 📈 Product Backlog
+# 📈 Product Backlog
 
 | 🏅 Rank| 🔥 Prioridade| 📝 User Story| 🚀 Sprint| 🎯 Requisito do Parceiro|
 | :--------: | :--------: | -------- | :--------: | :--------: |
@@ -78,13 +78,13 @@
 
 ---
 
-## 📚 Documentação
+# 📚 Documentação
 
 + [Sprints](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/wiki/Home)
 
 ---
 
-## 💻 Tecnologias
+# 💻 Tecnologias
 <h4 align="center">
 
 |                                                         | Tecnologia   | Versão  | Descrição                                            |
