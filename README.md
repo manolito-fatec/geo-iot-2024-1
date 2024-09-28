@@ -80,7 +80,7 @@
 
 # 📚 Documentação
 
-+ [Sprints](https://github.com/wiz-fatec/dom-rock-pipeline-configurator/wiki/Home)
++ [Documentação](https://github.com/manolito-fatec/geo-iot-2024-1.wiki.git)
 
 ---
 
