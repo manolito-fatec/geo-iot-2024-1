@@ -4,11 +4,11 @@
 ---
 
 ## 📌 Tópicos
-- [👥 Membros](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#team-members)
-- [📋 Requisitos](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#requisitos)
-- [📈 Product Backlog](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#product-backlog)
-- [📚 Documentação](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#documentação)
-- [💻 Tecnologias](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#tecnologias)
+- [👥 Membros](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#-team-members)
+- [📋 Requisitos](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#-requisitos)
+- [📈 Product Backlog](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#-product-backlog)
+- [📚 Documentação](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#-documentação)
+- [💻 Tecnologias](https://github.com/manolito-fatec/geo-iot-2024-1?tab=readme-ov-file#-tecnologias)
 
 ---
 
