@@ -80,7 +80,7 @@
 
 # 📚 Documentação
 
-+ [Documentação](https://github.com/manolito-fatec/geo-iot-2024-1.wiki.git)
++ [Documentação](https://github.com/manolito-fatec/geo-iot-2024-1/wiki)
 
 ---
 
